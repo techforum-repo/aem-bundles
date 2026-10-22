@@ -1,0 +1,1 @@
+> **This repository has moved.** It now lives in [`techforum-samples/aem/aem-bundles`](https://github.com/techforum-repo/techforum-samples/tree/master/aem/aem-bundles), with its full commit history. This repo is archived and read-only.
